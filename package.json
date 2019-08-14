@@ -2,6 +2,7 @@
   "name": "react-firebase-authentication",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Oliviervdg.github.io/React-Firebase-Authentication-Set-Up",
   "dependencies": {
     "firebase": "^6.3.4",
     "react": "^16.8.6",
@@ -10,6 +11,7 @@
     "react-with-firebase-auth": "^1.0.3"
   },
   "scripts": {
+    "deploy": "npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
