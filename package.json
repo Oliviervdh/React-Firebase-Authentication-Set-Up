@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://Oliviervdg.github.io/React-Firebase-Authentication-Set-Up",
   "dependencies": {
-    "firebase": "^6.3.4",
+    "firebase": "^10.9.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
